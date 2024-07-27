@@ -11,8 +11,7 @@ This project involves using Terraform to create multiple Spotify playlists for d
 5. **Spotify Provider for Terraform**: Install and configure the Spotify provider for Terraform.
 6. **VS Code Editor**: Recommended for editing Terraform files.
 
-##
-Steps to Complete the Project
+## Steps to Complete the Project
 1. Creating Terraform Code
 Start by setting up your Terraform project.
 Create a new directory for your Terraform project and navigate to it in your terminal.
