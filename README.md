@@ -63,11 +63,10 @@ docker run --rm -it -p 27228:27228 --env-file ./.env ghcr.io/conradludgate/spoti
     ```
     terraform plan
     
-    ```
-     
+    ``` 
     terraform apply -auto-approve
     
-    ```
+   
     
 
 ### 11. Verify Playlists on Spotify
