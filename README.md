@@ -22,3 +22,13 @@ provider "spotify" {
   api_key = "?"
 }
 
+### 3. Need API Key
+
+To interact with Spotify's API, you need a Client ID and Client Secret.
+
+### 4. Start with App Creation
+
+1. Go to the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/).
+2. Log in with your Spotify account.
+3. Click on "Create an App".
+<img width="1697" alt="Screenshot 2024-07-27 at 10 39 15 PM" src="https://github.com/user-attachments/assets/974b5d8c-1688-4e0d-9c53-f1bd81278369">
