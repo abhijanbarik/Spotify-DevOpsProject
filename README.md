@@ -1,6 +1,6 @@
 ## Project Overview
 
-This project involves using Terraform to create multiple Spotify playlists for different occasions like morning, evening, party night, etc. Terraform will be used to automate the creation and management of these playlists.
+**This project involves using Terraform to create multiple Spotify playlists for different occasions like morning, evening, party night, etc. Terraform will be used to automate the creation and management of these playlists.
 
 ## Prerequisites
 
@@ -46,7 +46,7 @@ SPOTIFY_CLIENT_SECRET=<your_spotify_client_secret>
 Make sure Docker Desktop is running, and start the authorization proxy server:
 
 ```
-docker run --rm -it -p 27228:27228 --env-file ./.env ghcr.io/conradludgate/spotify-auth-proxy
+docker run --rm -it -p 27228:27228 --env-file .env ghcr.io/conradludgate/spotify-auth-proxy
 
 ```
 <img width="1304" alt="Screenshot 2024-07-27 at 10 43 24 PM" src="https://github.com/user-attachments/assets/207b8c0e-fcba-4b96-9aba-3fb0d672b74a">
