@@ -17,10 +17,11 @@ Create a new directory for your Terraform project and navigate to it in your ter
 Create a file named main.tf.
 2. Define Provider
 In main.tf, define the Spotify provider:
+```
 provider "spotify" {
   api_key = "?"
 }
-
+```
 ### 3. Need API Key
 
 To interact with Spotify's API, you need a Client ID and Client Secret.
